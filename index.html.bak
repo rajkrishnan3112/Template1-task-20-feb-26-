@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<title>Document</title>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<div>
+	<div class="navbar">
+		<div class="navbartitle">Fresh</div>
+		<div class="menu">
+			<a href="javascript:;">HOME</a>
+			<a href="javascript:;">FEATURES</a>
+			<a href="javascript:;">PORTFOLIO</a>
+			<a href="javascript:;">BLOG</a>
+			<a href="javascript:;">CONTACT US</a>
+		</div>
+	</div>
+	<div class="header">
+		<div class="content">
+			<h1>BIG BOLD CALL TO ACTION!</h1>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit.Duis augue nisl, commodo ut egestas vitae, rutrum sit amet .Phasellus aliquam, justo sed luctus varius, nunc enim porttitor nisl,sit amet pretium dolor tellus sed ipsum.Aliquam et eros neque.Fusce quis leo neque, vel aliquam diam.
+			</p>
+			<div class="buttons">
+				<a href="javascript:;" class="btn light">Click Here</a>
+				<a href="javascript:;" class="btn dark">Purchase Now</a>
+			</div>
+		</div>
+		<!-- <img src="images/carousel-border.png"/> -->
+	</div>
+	<div class="body">
+		<h3 class="subhead">WHAT WE DO</h3><hr>
+		<div class="features">
+			<div class="feature">
+				<img src="images/star.png" class="feature-img">
+				<h4>STAR POWER</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Vestibulum lacus eros,pellentesque at viverra sit amet,porta vitae sapien.</p>
+				<a href="javascript:;">Vestibulu lacus eros</a>
+			</div>
+			<div class="feature">
+				<img src="images/audio.png" class="feature-img">
+				<h4>BROADCAST</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Vestibulum lacus eros,pellentesque at viverra sit amet,porta vitae sapien.</p>
+				<a href="javascript:;">Vestibulu lacus eros</a>
+			</div>
+			<div class="feature">
+				<img src="images/persons.png" class="feature-img">
+				<h4>TALK A LOT</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Vestibulum lacus eros,pellentesque at viverra sit amet,porta vitae sapien.</p>
+				<a href="javascript:;">Vestibulu lacus eros</a>
+			</div>
+			<div class="feature">
+				<img src="images/graph.png" class="feature-img">
+				<h4>GROW</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Vestibulum lacus eros,pellentesque at viverra sit amet,porta vitae sapien.</p>
+				<a href="javascript:;">Vestibulu lacus eros</a>
+			</div>
+		</div>
+		<h4 class="subhead2">LATEST PROJECTS</h4><hr>
+		<div class="projects">
+			<span><img src="images/banner-1.png" alt="Project1" title="Project1"/></span>
+			<span><img src="images/banner-2.png" alt="Project2" title="Project2"/></span>
+			<span><img src="images/banner-3.png" alt="Project3" title="Project3"/></span>
+			<span><img src="images/banner-4.png" alt="Project4" title="Project4"/></span>
+			<span><img src="images/banner-5.png" alt="Project5" title="Project5"/></span>
+			<span><img src="images/banner-6.png" alt="Project6" title="Project6"/></span>
+		</div><hr>
+	</div>
+	<div class="bottom">
+		<h2>WE WOULD LOVE TO HEAR FROM YOU</h2>
+	</div>
+	<div class="footer">
+		<div class="footer-container">
+			<div class="footer-column">
+				<div>
+					<span class="title-img"><img src="images/link.png"></span>
+					<span class="bold">Links</span>
+				</div>
+				<span class="links">
+						<div>Home</div><hr>
+						<div>Mauris accumsan</div><hr>
+						<div>Lauris</div><hr>
+						<div>Accumsan</div><hr>
+				</span>
+				<span class="links">
+						<div>Hello World</div><hr>
+						<div>Mauris accumsan</div><hr>
+						<div>Lauris</div><hr>
+						<div>Accumsan</div><hr>
+				</span>
+			</div>
+			<div class="footer-column">
+					<div>
+						<span class="title-img"><img src="images/hand.png"></span>
+						<span class="bold">Connect With Us</span>
+					</div>
+					<p>We know you have at least one social profile...We would love to hear from you!</p>
+					<span class="social-image">
+						<img src="images/pin.png">
+						<img src="images/twitter.png">
+						<img src="images/facebook.png">
+						<img src="images/google-plus.png">
+						<img src="images/linkedin.png">
+					</span>
+			</div>
+			<div class="footer-column">
+				<div>
+					<span class="title-img"><img src="images/mail.png"></span>
+					<span class="bold">Subscribe</span>
+				</div>
+				<p>Subscribe to our newsletter to get the latest news!</p>
+			</div>
+		</div>
+		<div class="footerbottom">
+			Read the blog &nbsp; | &nbsp; Submit &nbsp; | &nbsp; Links
+		</div>
+	</div>
+</div>
+</body>
+</html>
